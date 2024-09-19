@@ -1,0 +1,14 @@
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\lenguajeLab2\bin\Debug\net8.0\lenguajeLab2.exe
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\lenguajeLab2\bin\Debug\net8.0\lenguajeLab2.deps.json
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\lenguajeLab2\bin\Debug\net8.0\lenguajeLab2.runtimeconfig.json
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\lenguajeLab2\bin\Debug\net8.0\lenguajeLab2.dll
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\lenguajeLab2\bin\Debug\net8.0\lenguajeLab2.pdb
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\lenguajeLab2\obj\Debug\net8.0\lenguajeLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\lenguajeLab2\obj\Debug\net8.0\lenguajeLab2.AssemblyInfoInputs.cache
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\lenguajeLab2\obj\Debug\net8.0\lenguajeLab2.AssemblyInfo.cs
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\lenguajeLab2\obj\Debug\net8.0\lenguajeLab2.csproj.CoreCompileInputs.cache
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\lenguajeLab2\obj\Debug\net8.0\lenguajeLab2.dll
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\lenguajeLab2\obj\Debug\net8.0\refint\lenguajeLab2.dll
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\lenguajeLab2\obj\Debug\net8.0\lenguajeLab2.pdb
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\lenguajeLab2\obj\Debug\net8.0\lenguajeLab2.genruntimeconfig.cache
+C:\Users\escal\OneDrive\Documentos\Ingeniera en Informatica y Sistema URL\1 año Universidad Sistemas\Visual Programas\lenguajeLab2\obj\Debug\net8.0\ref\lenguajeLab2.dll
