@@ -1,0 +1,56 @@
+abaa*a*#
+aba*#
+abaab*#ab*
+xabab#
+ abaa*#
+
+b aaa# *
+bbb* **
+a ab # #
+b abaab
+ab bb
+aa#a# ab
+ab### ##
+aa#bb#a
+#a##b
+bab**b#b
+#abb a #
+a#b#abbb#
+bbbab # a
+#ab #b*#
+a#a # b
+#b# b##a
+##* a #b#*
+bb# aabab*
+ab bb ##a*
+a a*b#*aa
+b b###ba
+#b b bba
+b##ab ba a
+aa*b#**#
+ab#b#####
+aa*###b*#*
+#b# #
+a # abb
+aa# b ##b
+aa ##b*aa
+ba ##
+##b a aba
+aa ####bb
+**b a## #b
+aa## ###b
+ba * bab
+a b#a# **#
+a abbaab
+a a ab
+**aab#bb
+#a##bb
+#aba abb#b
+ab * b#b
+a bb*ab b
+#b# ba*#
+b#bb *
+b#a#bbaa
+a#a#bbbb#
+b # **b
+#b#b bb b
